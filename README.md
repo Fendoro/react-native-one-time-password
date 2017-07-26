@@ -4,7 +4,7 @@ Based on course: https://www.udemy.com/react-native-advanced/
 
 ### Used Technologies
 
-JS6, react, react-native, android, react-native-elements, expo, axios, firebase, twilio, google cloud functions
+ES6, react, react-native, android, react-native-elements, expo, axios, firebase, twilio, google cloud functions
 
 ### Getting Started
 
